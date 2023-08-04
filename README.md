@@ -1,1 +1,1 @@
-# acciojob-zomato-clone
+# zomato-clone
